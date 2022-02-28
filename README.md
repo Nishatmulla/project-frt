@@ -6,9 +6,9 @@ Hospital Appointment Booking Bot on hospital website to help patients setup appo
 
 **Features**
 
-*1-Hassle-free appointment scheduling
-*2-Immediate Patient Assistance
-*3-Saves Time
+*1-Hassle-free appointment scheduling*
+*2-Immediate Patient Assistance*
+*3-Saves Time*
 
 
 
